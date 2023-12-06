@@ -9,6 +9,13 @@ GPT model developed as a final project for Intro to AI class.
 This is a basic Generative Pretrained Transformer model that I created for my Intro To AI final project at Virginia Tech. I completed this project individually, and made use of many
 online resources in order to learn how to get my first experience with building a real neural network from scratch. I hope to build off these skills in future work.
 
+The model uses character based encoding to predict the next character in a sequence after using previous characters as context. The number of characters to use as context is an important
+parameter to set, however it needs to be determined based on CPU quality; I have found a large context length is very computationally expensive. 
+
+The output of the model is set to create short snippets of Family Guy scripts, however if given any other text input it should be able to recreate it with generally high accuracy.
+
+As I am a student, I welcome any feedback on this project! Please feel free to email me at fhurtado14@vt.edu with any advice or criticisms. 
+
 ## Usage
 1. Install all prerequistes
 2. Run ./driver.py
