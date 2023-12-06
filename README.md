@@ -2,8 +2,8 @@
 GPT model developed as a final project for Intro to AI class. 
 
 ## Prerequisites:
-pip install tiktoken
-install pytorch: https://pytorch.org/get-started/locally/ 
+- pip install tiktoken
+- install pytorch: https://pytorch.org/get-started/locally/ 
 
 ## Project Description
 This is a basic Generative Pretrained Transformer model that I created for my Intro To AI final project at Virginia Tech. I completed this project individually, and made use of many
