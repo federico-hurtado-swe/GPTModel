@@ -14,8 +14,6 @@ parameter to set, however it needs to be determined based on CPU quality; I have
 
 The output of the model is set to create short snippets of Family Guy scripts, however if given any other text input it should be able to recreate it with generally high accuracy.
 
-As I am a student, I welcome any feedback on this project! Please feel free to email me at fhurtado14@vt.edu with any advice or criticisms. 
-
 ## Usage
 1. Install all prerequistes
 2. Run ./driver.py
